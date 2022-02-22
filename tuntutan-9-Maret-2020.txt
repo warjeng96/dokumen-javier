@@ -1,3 +1,5 @@
 blanko ccl 1 ccl2 50% 50%
 transparasi biaya
 statuta kampus
+lsp
+melibatkan mahasiswa dengan pelaksanaan aturan kampus
