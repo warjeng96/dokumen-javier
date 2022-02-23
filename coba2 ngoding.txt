@@ -4,3 +4,5 @@ ms excel
 javascript
 github
 breakdown ms ecel & js
+oop java
+python
