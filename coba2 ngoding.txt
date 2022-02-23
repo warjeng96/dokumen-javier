@@ -1,8 +1,14 @@
 ms excel
  * udah nyampe 5/5 belajar excel dari 0
  * fungsi rand
+ * vlokkup hlookup
 javascript
+ *menulis kodingan javascript
 github
+  * branch
 breakdown ms ecel & js
+* full breakdown 5/5 ms excel
 oop java
+ * inheritance
 python
+c++
