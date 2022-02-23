@@ -9,6 +9,3 @@ github
 breakdown ms ecel & js
 * full breakdown 5/5 ms excel
 oop java
- * inheritance
-python
-c++
